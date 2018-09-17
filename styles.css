@@ -1,0 +1,15 @@
+body{
+    margin:auto;
+    background: powderblue;
+    width: 100%;
+    padding: 0ch;
+}
+ 
+.head{
+    font-family:Arial;
+    font-weight: bold;
+
+}
+#font-type{
+    font-style: italic
+}
