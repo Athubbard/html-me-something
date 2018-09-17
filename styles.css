@@ -13,3 +13,9 @@ body{
 #font-type{
     font-style: italic
 }
+figcaption {
+    font-style: italic;
+}
+    
+    figure {
+        text-align: center;
